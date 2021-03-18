@@ -3,9 +3,12 @@ the objective was to practice, life cicle of components, hooks and api contex
 
 ## screenshot
 
+![](screenShot/interface%20grafica.JPG)
+
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm install`
 
 ### `npm start`
 
